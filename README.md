@@ -10,7 +10,7 @@ I built a **Serverless Data Lake** on AWS that automatically ingests, archives, 
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 *Real-time monitoring of Frankfurt Hub with live "High Wind" alerts and 24h trend analysis. The system automatically converts UTC server time to Local German Time.*
 
 ![Dashboard UI](dashboard-ui.png)
